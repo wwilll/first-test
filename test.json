@@ -1,0 +1,21 @@
+{
+  "root": {
+    "first": "Hello!I'm a test json file",
+    "description": "this file is from static/db/testjson",
+    "content":{
+      "title":"fruit",
+      "list":[
+        {
+          "name": "apple",
+          "price": 8,
+          "amount": 3
+        },
+        {
+          "name": "banana",
+          "price": 4,
+          "amount": 5
+        }
+      ]
+    }
+  }
+}
